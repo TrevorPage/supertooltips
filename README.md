@@ -1,3 +1,13 @@
+I (TrevorPage) have created this fork of SuperToolTips for the following reasons:
+
+1. Updated the Gradle files so that the project opens and compiles in Android Studio 1.3.2. Refer to the first two commits. Prior to doing this the Gradle build stuff didn't work, and so the app and lib weren't recognised/generated as modules, etc.
+2. (TBC)
+
+
+
+----
+
+
 SuperToolTips (Discontinued)
 ===========
 [Play Store Demo][1] [![Build Status](https://travis-ci.org/nhaarman/supertooltips.svg?branch=master)](https://travis-ci.org/nhaarman/supertooltips)
