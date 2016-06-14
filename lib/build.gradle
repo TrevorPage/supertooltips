@@ -8,7 +8,7 @@ android {
         minSdkVersion 8
         targetSdkVersion 19
         versionCode Integer.parseInt(new Date().format('yyyyMMddHH'))
-        versionName VERSION_NAME
+        //versionName VERSION_NAME
     }
 
     compileOptions {
